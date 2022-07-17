@@ -16,12 +16,7 @@ A Tiktok App- Works on Android & iOS!
 - Displaying Followers, Following, Likes & Posts of User
 - TikTok Like UI
 
-## YouTube
-I have created a tutorial based on this, do check it out on my channel [Rivaan Ranawat](https://youtu.be/4E4V9F3cbp4) 
 
-<p align="center">
-  <img width="600" src="https://github.com/RivaanRanawat/tiktok-flutter-clone/blob/master/screenshot.png" alt="Youtube Tutorial Image">
-</p>
 
 
 ## Installation
@@ -43,8 +38,5 @@ Then run the following commands to run your app:
 **Client**: Flutter, GetX
 
 **Architecture**: MVC
-    
-## Feedback
 
-If you have any feedback, please reach out to me at namanrivaan@gmail.com
 
